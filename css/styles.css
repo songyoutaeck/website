@@ -8134,7 +8134,7 @@ textarea.form-control-lg {
   --bs-bg-opacity: 1;
   background: 
       linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.5)), /* 살짝 옅은 오버레이 */
-      url("../assets1/img/portfolio/fullsize/bmi4.jpg") no-repeat center center !important;
+      url("/website/assets1/img/portfolio/fullsize/bmi4.jpg"") no-repeat center center !important;
   background-size: cover !important; /* 배경 이미지를 영역에 꽉 차게 */
   width: 100%; /* 가로를 화면 전체로 설정 */
   height: auto; /* 높이는 자동으로 조정 */
@@ -10941,7 +10941,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets1/img/portfolio/fullsize/bmi2.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/website/assets1/img/portfolio/fullsize/bmi2.jpg"");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
